@@ -1,3 +1,0 @@
-https://marcosp.streamlit.app/
-
-Utilizei um framework em python para a criação de apps chamado streamlit. Ele possui um serviço gratuito para hospedagem da aplicação.
